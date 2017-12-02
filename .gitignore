@@ -1,0 +1,19 @@
+# Executables
+*.elf
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Other files
+*.tmp
+
+# Folders
+.dep
+.d
+bin
+doc
+obj
+tmp
